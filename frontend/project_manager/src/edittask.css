@@ -1,0 +1,9 @@
+.edittask {
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    color: white;
+    background-image: linear-gradient(45deg, blue, red); 
+  }
